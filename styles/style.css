@@ -893,9 +893,7 @@ body {
     max-width: 520px;
     width: 100%;
 }
-.video__video.active {
-    background: url(../images/Funny-cat.jpg) no-repeat center /cover;
-}
+
 
 .video__video {
     max-width: 520px;
